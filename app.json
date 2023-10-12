@@ -8,6 +8,25 @@
       "expo-router"
     ],
     "name": "signal-clone",
-    "slug": "signal-clone"
+    "slug": "signal-clone",
+    "version": "1.0.0",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "4e9ad158-b45a-459a-b277-6c9b63aebaf9"
+      }
+    },
+    "android": {
+      "package": "com.code_alone.signalclone"
+    }
+  },
+  "android": {
+    "package": "com.code_alone.signalclone",
+    "versionCode": 1,
+    "addaptiveIcon": {
+      "backgroundColor": "#FFFFFF"
+    }
   }
 }
